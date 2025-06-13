@@ -1,6 +1,6 @@
 {
-  "name": "SPACE-MD",
-  "description": "SPACE-MD, your day to day assistant!",
+  "name": ".jo.w.a sh._fav.__xMd",
+  "description": ".jo.w.a sh._fav.__"xMd, your day to day assistant!",
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/SPACE-MD",
@@ -21,12 +21,12 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "254793605433",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "Owl001",
     "required": false
   },
    "BOT_PASSWORD": {
@@ -41,7 +41,7 @@
   },
   "MAX_SESSIONS": {
     "description": "If you purchased a premium membership, enter the session limit you received here otherwise leave blank.",
-    "value": "",
+    "value": "15",
     "required": false
   },
    "EXPIRY": {
