@@ -1,5 +1,5 @@
 {
-  "name": "SPACE-MD",
+  "name": ".jo.w.a sh._fav.__",
   "version": "1.0.0",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "dev": "nodemon index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tylor",
+  "author": "..n.th.o.h.n.i.oh.__",
   "dependencies": {
         "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v2.0.5.tar.gz",
         "adm-zip": "^0.5.16",
